@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Vivek First App</string>
+    <string name="submit">Submit</string>
+    <string name="submit2">submit2</string>
+    <string name="hello_world">Hello World</string>
+    <string name="enter">Enter</string>
+    <string name="option_1">Option 1</string>
+    <string name="enter_the_factorial_number">Enter the factorial number</string>
+    <string name="option_3">Option 3</string>
+    <string name="option_2">Option 2</string>
+    <string name="Enter_the_number" />
+    <string name="enter_your_number_here">Enter your number here</string>
+    <string name="enter_your_number">Enter your number</string>
+    <string name="next">Next</string>
+    <string name="timer">Timer</string>
+    <string name="_0">0</string>
+    <string name="score">Score</string>
+</resources>
